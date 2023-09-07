@@ -1,0 +1,33 @@
+{
+    "Skills":   
+    [
+        {
+            "name": "Brutal Swing",
+            "Dmg Type": "Physical Atk",
+            "Dmg Multiplier": 1.5,
+            "Atk Count": 1,
+            "Mana Cost": 10
+        },
+        {
+            "name": "Blitzing Rush",
+            "Dmg Type": "Physical Atk",
+            "Dmg Multiplier": 0.125,
+            "Atk Count": 10,
+            "Mana Cost": 10
+        },
+        {
+            "name": "Blast",
+            "Dmg Type": "Magic Atk",
+            "Dmg Multiplier": 3,
+            "Atk Count": 1,
+            "Mana Cost": 10
+        },
+        {
+            "name": "Lightning Storm",
+            "Dmg Type": "Magic Atk",
+            "Dmg Multiplier": 0.25,
+            "Atk Count": 10,
+            "Mana Cost": 10
+        }
+    ]
+}

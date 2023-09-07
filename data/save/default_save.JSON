@@ -1,0 +1,43 @@
+{
+    "Saves": [
+        {
+            "Name": "",
+            "Level": "0",
+            "Exp": "0",
+            "Exp_needed": "0",
+            "Skill_id": "0",
+            "Attribute Points": "0",
+            "Strength": "0",
+            "Defense": "0",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Save_DateTime": "0"
+        },
+        {
+            "Name": "",
+            "Level": "0",
+            "Exp": "0",
+            "Exp_needed": "0",
+            "Skill_id": "0",
+            "Attribute Points": "0",
+            "Strength": "0",
+            "Defense": "0",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Save_DateTime": "0"
+        },
+        {
+            "Name": "",
+            "Level": "0",
+            "Exp": "0",
+            "Exp_needed": "0",
+            "Skill_id": "0",
+            "Attribute Points": "0",
+            "Strength": "0",
+            "Defense": "0",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Save_DateTime": "0"
+        }
+    ]
+}

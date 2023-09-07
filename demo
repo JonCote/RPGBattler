@@ -1,0 +1,13 @@
+#! /usr/bin/env bash
+
+panic() {
+    echo "Error: $@"
+    exit 1
+}
+
+cmd_dir=$(dirname "$0") || panic "cannot find command directory"
+
+RPGBattle_prog="$cmd_dir/RPGBattle data/save/demo_save.JSON"
+
+echo "launching RPGBattle"
+$RPGBattle_prog || panic "RPGBattle failed to launch"
