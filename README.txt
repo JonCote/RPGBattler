@@ -1,9 +1,10 @@
 
 TODO:
     - Fix issue with ultimate skill JSON not being packages with compilation. This issues causes game to not work if compiling is done to different
-    directory.
-    - Figure out way to package requirements so they are installed if not already aquired.
-    - Make execution open a new terminal of a set size so visuals are rendered properly.
+    directory
+    - Make execution open a new terminal of a set size so visuals are rendered properly instead of partial rendering if terminal is too small
+    - improve rendering pipeline to enable resizing of terminal window
+
 
 
 RPGBattle is a classically inspired text-based RPG battle game.
